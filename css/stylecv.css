@@ -1,0 +1,214 @@
+body {
+	background-image: url(../images/grey.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0 ;
+	height: 100%
+	} 
+header {
+	background-image: url(../images/header.jpg) ;
+	background-repeat: no-repeat ;
+	height: 150px ;
+	}
+	
+footer {
+	background-color: #635D61;
+	height: 80px ;
+	margin-top: 100px;
+	clear: both
+	}
+	
+p {
+	font-family: calibri
+}
+a{
+	color: white ;
+	text-decoration: none ;
+	text-transform: uppercase ;
+	font-family: "trebuchet ms" ;
+	font-weight: bold;
+	}
+nav a {
+
+	color: white ;
+	text-decoration: none ;
+	text-transform: uppercase ;
+	font-family: "trebuchet ms" ;
+	font-weight: bold ;
+
+
+			}
+nav li {
+	list-style-type: none;
+	display: inline ;
+	margin-right: 25px ;
+}
+
+nav {
+	position: absolute ;
+	height: 50px;
+	width: 100% ;
+	background-color: #800080 ;
+	}
+
+nav ul {
+	position: absolute ;
+	right: 50px
+	}
+	
+aside
+{
+	float: left ;
+	width: 210px;
+    background-color: black;
+    box-shadow: 0px 3px 6px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+	margin-top: 75px ;
+	margin-left: 25px ;
+	border: 5px solid #84d874
+	}
+article {
+	margin-left: 330px ;
+	margin-right: 330px ;
+	margin-top: 75px ;
+	background-color : white
+	
+	}
+menu {
+	float: right ;
+	width: 210px;
+	background-color: #800080
+    box-shadow: 0px 3px 6px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+	margin-top: 75px ;
+	margin-right: 25px ;
+	border: 5px solid black
+	}
+h2 {
+	text-align: center ;
+	font-family: calibri
+	}
+h3 {
+	display: block ;
+	font-family: "trebuchet ms"	;
+	padding-top: 0px ;
+	padding-bottom: 0px ;
+	margin-bottom: 0px ;
+	font-size: 20px 
+	}
+
+h4 {       
+	display: block ;
+	font-family: "trebuchet ms" ;
+	color: grey ;
+	padding-top: 0px ;
+	padding-bottom: 0px ;
+	margin-top : 7px ;
+	margin-bottom: 7px ;
+	font-size: 17px
+	}
+
+
+section {
+	
+	padding: 7px ;
+	margin: 5px
+	}
+
+section ul {
+	list-style-type: none ;
+	padding: 0 ;
+	font-size: 13px ;
+	text-align: justify ;
+	font-family: "trebuchet ms" ;
+	}
+	
+section p {
+	text-align: justify ;
+	font-size: 13px ;
+	font-family: "trebuchet ms"
+	}
+.photo {
+	display: block; 
+	margin: 0 auto;
+	}
+
+#sep {
+	display: block ;
+	margin-left: 5px ;
+	padding: 0
+	}
+
+.pdf {
+	display: block; 
+	margin: 0 auto;
+	}
+menu p{
+	text-align: center ;
+	color : black
+	}
+
+.gmail {
+	display: block ;
+	margin: 0 auto
+	}
+a:hover {
+	color: grey ;
+		}
+span {
+	background-color: #800080 ;
+	float: right ;
+	display: block ;
+	font-family: "trebuchet ms" ;
+	font-size: 17px ;
+	padding: 3px ;
+	border-radius: 5px;
+	color: white
+	}
+.competences h3{
+	text-align: center ;
+	font-size: 25px
+	}
+.competences h4{
+	font-size: 20px
+	}
+.competences p {
+	font-size: 15px
+	}
+.compétences ul {
+	display: block
+	}
+.bureautique {
+	margin-right: 30px ;
+	margin-left: 20px 
+	}
+
+.langage {
+	margin-right: 30px ;
+	margin-left: 120px 
+	}
+.creation {
+	margin-right: 30px ;
+	margin-left: 120px 
+	}
+	
+div {
+	display: inline-block ;
+	 vertical-align: top;
+	 margin-left: 10px ;
+	 margin-right: 10px
+	}
+.bureautique {
+	margin-right : 10px
+	}
+#fleche {
+	float: right ;
+	margin-right: 250px
+	}
